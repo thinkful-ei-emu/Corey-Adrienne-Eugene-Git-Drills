@@ -1,2 +1,3 @@
-const myTeam = "Corey and Adrienne";
+'use strict';
+const myTeam = 'Corey and Adrienne';
 console.log(myTeam);
